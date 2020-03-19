@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "shop_s",
+  "info": {
+    "name": "Shop "
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Title": {
+      "type": "richtext"
+    },
+    "time": {
+      "type": "datetime"
+    }
+  }
+}
