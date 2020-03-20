@@ -8,8 +8,8 @@
         "host": "10.0.3.12",
         "port": "27017",
         "database": "strapi",
-        "username": "",
-        "password": ""
+        "username": "mongouser",
+        "password": "Roehl1234"
       },
       "options": {
         "ssl": false
