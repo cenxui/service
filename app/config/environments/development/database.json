@@ -5,11 +5,11 @@
       "connector": "mongoose",
       "settings": {
         "client": "mongo",
-        "host": "mongo",
+        "host": "10.0.3.12",
         "port": "27017",
         "database": "strapi",
-        "username": "strapi",
-        "password": "strapi"
+        "username": "",
+        "password": ""
       },
       "options": {
         "ssl": false
